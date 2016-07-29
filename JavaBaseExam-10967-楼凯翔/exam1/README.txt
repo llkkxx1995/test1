@@ -1,0 +1,1 @@
+start program : mvn clean compile exec:java -Dexec.mainClass="com.hand.PrimeNumber" -Dexec.args="arg0 arg1 arg2"
