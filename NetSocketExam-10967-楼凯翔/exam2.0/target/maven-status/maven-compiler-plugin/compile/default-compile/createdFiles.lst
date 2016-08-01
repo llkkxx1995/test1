@@ -1,0 +1,4 @@
+com\hand\App.class
+com\hand\MyServerSocket.class
+com\hand\MyClientSocket.class
+com\hand\SocketStart.class
